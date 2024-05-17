@@ -1,0 +1,42 @@
+h2{
+color:#5553B7;
+}
+
+#B1{
+border-radius: 25px;
+padding: 3px 8px;
+color: white;
+    background-color: #2DD35C;  
+    border:solid #2DD35C;;
+}
+
+#B2{
+    border-radius: 25px;
+    padding: 3px 8px;
+    color:#5553B7 ; 
+    background-color: #ffff;  
+    border:solid #5553B7;
+}
+.container{
+    display: flex;
+    position: relative;
+}
+#D1{
+    border:solid #2DD35C;
+    width: 55%;
+    padding : 35px;
+    border-top-right-radius: 10rem;
+    border-bottom-right-radius: 1rem;
+    position: absolute;
+}
+#D2{
+    border:solid #5553B7;
+    padding :    80px;
+    margin : 50px;
+    width :40%;
+    border-top-left-radius: 10rem;
+    border-bottom-left-radius: 1rem;
+    margin-left: 52%;
+    background-color: #5553B7;
+}
+   
