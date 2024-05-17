@@ -2,6 +2,10 @@ h2{
 color:#5553B7;
 }
 
+button{
+    height: 36px;
+}
+
 #B1{
 border-radius: 25px;
 padding: 3px 8px;
